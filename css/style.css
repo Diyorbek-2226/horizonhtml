@@ -120,6 +120,8 @@ padding: 40px 0px;
     box-sizing: border-box;
     border:  none;
     box-shadow:5px 10px 15px black;
+    filter: brightness(1.2) saturate(1.5);
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.5), 5px 10px 15px black;
 
     
 }
